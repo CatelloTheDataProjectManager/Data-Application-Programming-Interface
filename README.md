@@ -11,6 +11,14 @@ This repository contains the development of a Data Application Programming Inter
 
 ## Technologies Used
 
+<table>
+  <tr>
+    <td><img src="https://github.com/CatelloTheDataProjectManager/Data-Application-Programming-Interface/blob/main/django_logo.png" alt="Django Logo" width="100"></td>
+    <td><img src="https://github.com/CatelloTheDataProjectManager/Data-Application-Programming-Interface/blob/main/flask_logo.png" alt="Flask Logo" width="100"></td>
+    <td><img src="https://github.com/CatelloTheDataProjectManager/Data-Application-Programming-Interface/blob/main/html_logo.png" alt="HTML Logo" width="100"></td>
+  </tr>
+</table>
+
 - **Python**: Primary programming language for both backhand and forehand development.
 - **Flask/Django**: Frameworks used for API development.
 - **SQLAlchemy**: ORM for database interactions.
